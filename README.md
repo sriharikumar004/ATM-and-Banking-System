@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230273
+# Name:Sriharikumar k
+# Date:28-10-26
 
 
 # AIM:
